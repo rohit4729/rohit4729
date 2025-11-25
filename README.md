@@ -1,8 +1,8 @@
 # Hi 👋, I'm Rohit Mandal
 
-### A passionate about DevOps 
+### Passionate about DevOps 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit4729&label=Profile views&color=0e75b6&style=flat" alt="rohit4729" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit4729" alt="rohit4729" /></a> </p>
 
