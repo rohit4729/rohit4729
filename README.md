@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Containers, Kubernetes, CI-CD pipeline, Cloud-Computing**
 
-- 📫 How to reach me **rohitmandal214339@gmail.com**
+- 📫 How to reach me **rohitmandal4729@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
